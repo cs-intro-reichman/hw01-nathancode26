@@ -1,0 +1,3 @@
+[submodule "hw01-nathancode26"]
+    path = hw01-nathancode26
+    url = https://github.com/cs-intro-reichman/hw01-nathancode26
