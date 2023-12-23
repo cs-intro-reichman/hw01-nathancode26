@@ -20,7 +20,6 @@ public class Coins {
             }
             number_cent = number;
         }
-        System.out.println("Use " + number_quarter + " quarters and " +  number_cent + " cents");
-        
+        System.out.println("Use " + number_quarter + " quarters and " +  number_cent + " cents"); 
 	}
 }
