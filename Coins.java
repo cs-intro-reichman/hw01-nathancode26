@@ -22,5 +22,4 @@ public class Coins {
         }
         System.out.println("Use " + number_quarter + " quarters and " +  number_cent + " cents"); 
 	}
-	
 }
